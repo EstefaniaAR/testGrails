@@ -8,5 +8,7 @@
 	<g:form >
 		<label> </label>
 		<g:actionSubmit value="Add String" action="addStringForm"/>
+		<g:actionSubmit value="Substract String" action="substStringForm"/>
+		<g:actionSubmit value="Mulplify String" action="multStringForm"/>
 	</g:form>
 </html>
