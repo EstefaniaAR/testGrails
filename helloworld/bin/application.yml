@@ -91,9 +91,9 @@ hibernate:
 dataSource:
     pooled: true
     jmxExport: true
-    driverClassName: org.h2.Driver
-    username: sa
-    password: ''
+    driverClassName: oracle.jdbc.OracleDriver
+    username: enterprise
+    password: 'enterprise2018'
 
 environments:
     development:
